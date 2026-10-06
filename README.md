@@ -54,10 +54,27 @@
 
 ## 📊 GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yahyasarhan22&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyasarhan22&layout=compact&hide_border=true" alt="Top languages" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yahyasarhan22&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=GitHub%20Stats" />
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yahyasarhan22&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=1F2328&custom_title=GitHub%20Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yahyasarhan22&layout=compact&langs_count=8&hide=scheme&hide_border=true&border_radius=12&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyasarhan22&layout=compact&langs_count=8&hide=scheme&hide_border=true&border_radius=12&bg_color=00000000&title_color=0969DA&text_color=1F2328" />
+  </picture>
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=yahyasarhan22&hide_border=true" alt="GitHub streak" />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yahyasarhan22&hide_border=true&border_radius=12&background=00000000&ring=58A6FF&fire=F78166&currStreakNum=E6EDF3&currStreakLabel=58A6FF&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=yahyasarhan22&hide_border=true&border_radius=12&background=00000000&ring=0969DA&fire=CF222E&currStreakNum=1F2328&currStreakLabel=0969DA&sideNums=1F2328&sideLabels=57606A&dates=6E7781&stroke=D0D7DE" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahyasarhan22&theme=github_dark" />
+    <img width="100%" alt="Contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahyasarhan22&theme=github" />
+  </picture>
 </p>
