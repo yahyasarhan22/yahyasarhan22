@@ -59,8 +59,8 @@ Second production platform for an external client: courses, enrolment, bookings,
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/yahyasarhan22/Sahem"><img src="assets/sahem.svg" alt="Sahem" /></a>
-<h3><a href="https://github.com/yahyasarhan22/Sahem">Sahem · ساهم</a> <sub>· 🥉 Al-Quds Hackathon</sub></h3>
+<a href="https://sahem-zqeu.vercel.app/"><img src="assets/sahem.png" alt="Sahem" /></a>
+<h3><a href="https://sahem-zqeu.vercel.app/">Sahem · ساهم</a> <sub>· 🥉 Al-Quds Hackathon · <a href="https://github.com/yahyasarhan22/Sahem">code</a></sub></h3>
 Turns neighbourhood cleanup and volunteering into an ongoing habit: nearby activities, tracked hours, PDF certificates, and an AI chatbot.
 <br/><br/>
 <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Supabase</code> <code>Vercel</code>
