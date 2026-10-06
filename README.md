@@ -114,8 +114,8 @@ Full-stack task management app built in a Scrum team of five over three two-week
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,java,c,dart,angular,react,flask,spring,nestjs,tailwind,mysql,postgres,supabase,aws,vercel,flutter,git,linux&perline=10&theme=dark" />
-    <img alt="Tech stack" src="https://skillicons.dev/icons?i=py,ts,js,java,c,dart,angular,react,flask,spring,nestjs,tailwind,mysql,postgres,supabase,aws,vercel,flutter,git,linux&perline=10&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cjava%2Cc%2Cdart%2Cangular%2Creact%2Cflask%2Cspring%2Cnestjs%2Ctailwind%2Cmysql%2Cpostgres%2Csupabase%2Caws%2Cvercel%2Cflutter%2Cgit%2Clinux&perline=10&theme=dark" />
+    <img alt="Tech stack" src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cjava%2Cc%2Cdart%2Cangular%2Creact%2Cflask%2Cspring%2Cnestjs%2Ctailwind%2Cmysql%2Cpostgres%2Csupabase%2Caws%2Cvercel%2Cflutter%2Cgit%2Clinux&perline=10&theme=light" />
   </picture>
 </p>
 
