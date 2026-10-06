@@ -27,8 +27,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Doctor Rand** | Production, Arabic-first course and booking platform: enrolment, session booking, S3 video streaming, online payments, email and an admin dashboard | Flask · MySQL · JS · AWS S3 · Lahza · Railway |
-| **Monia Sabah Academy** | Second production platform for an external client: content, enrolment and admin management | Flask · MySQL · JS · AWS S3 · Railway |
+| [**Doctor Rand**](https://doctor-rand.com/) 🔗 | Production, Arabic-first course and booking platform: enrolment, session booking, S3 video streaming, online payments, email and an admin dashboard | Flask · MySQL · JS · AWS S3 · Lahza · Railway |
+| [**Monia Sabah Academy**](https://dr-monia.com/) 🔗 | Second production platform for an external client: content, enrolment and admin management | Flask · MySQL · JS · AWS S3 · Railway |
 | [**Aman · أمان**](https://github.com/yahyasarhan22/Aman) | Food-safety inspection transparency platform for Nablus Municipality: QR hygiene grades, citizen complaints, an offline risk-ranked inspector checklist and an admin dashboard | Angular 22 · NestJS · TypeORM · MySQL · TypeScript |
 | [**Sahem · ساهم**](https://github.com/yahyasarhan22/Sahem) | Volunteering and environmental-cleanup platform: find nearby activities, track volunteer hours, PDF certificates and an AI chatbot | React · Vite · Tailwind · Supabase · Vercel |
 | **Masar · مسار** | AI academic companion app for Arab students, built in 3 days | Flutter · Dart · AI |
