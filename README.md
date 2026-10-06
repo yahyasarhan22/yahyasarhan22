@@ -123,18 +123,7 @@ Full-stack task management app built in a Scrum team of five over three two-week
 
 <p align="center"><sub>📜 AI Programming with Python & TensorFlow (Udacity, Google & SPARK) · Front-End Development (The Hope International)</sub></p>
 
-## 📊 GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yahyasarhan22&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=GitHub%20Stats" />
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yahyasarhan22&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=1F2328&custom_title=GitHub%20Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yahyasarhan22&layout=compact&langs_count=8&hide=scheme&hide_border=true&border_radius=12&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyasarhan22&layout=compact&langs_count=8&hide=scheme&hide_border=true&border_radius=12&bg_color=00000000&title_color=0969DA&text_color=1F2328" />
-  </picture>
-</p>
+## 📊 GitHub activity
 
 <p align="center">
   <picture>
