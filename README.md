@@ -66,7 +66,7 @@ Turns neighbourhood cleanup and volunteering into an ongoing habit: nearby activ
 <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Supabase</code> <code>Vercel</code>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/yahyasarhan22/Aman"><img src="assets/aman.svg" alt="Aman" /></a>
+<a href="https://github.com/yahyasarhan22/Aman"><img src="assets/aman.png" alt="Aman" /></a>
 <h3><a href="https://github.com/yahyasarhan22/Aman">Aman · أمان</a> <sub>· civic tech</sub></h3>
 Food-safety transparency for Nablus Municipality: QR hygiene grades, an offline risk-ranked inspector checklist, and an admin dashboard.
 <br/><br/>
