@@ -132,7 +132,6 @@ Full-stack task management app built in a Scrum team of five over three two-week
   </picture>
 </p>
 
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yahyasarhan22/yahyasarhan22/output/github-snake-dark.svg" />
