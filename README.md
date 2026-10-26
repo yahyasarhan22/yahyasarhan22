@@ -59,12 +59,21 @@ Second production platform for an external client: courses, enrolment, bookings,
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://randclinic-production.up.railway.app/en"><img src="assets/clinic32.png" alt="Clinic 32" /></a>
+<h3><a href="https://randclinic-production.up.railway.app/en">Clinic 32 · عيادة 32</a> <sub>· client project</sub></h3>
+Bilingual Arabic/English website for a VIP dental clinic in Ramallah: published prices, a team of nine specialists, booking, an international-patient programme, and an admin panel for prices, FAQs, before/after cases and media.
+<br/><br/>
+<code>Angular 22 SSR</code> <code>Express</code> <code>PostgreSQL</code> <code>Bunny CDN</code> <code>Playwright</code> <code>Railway</code>
+</td>
+<td width="50%" valign="top">
 <a href="https://sahem-zqeu.vercel.app/"><img src="assets/sahem.png" alt="Sahem" /></a>
 <h3><a href="https://sahem-zqeu.vercel.app/">Sahem · ساهم</a> <sub>· 🥉 Al-Quds Hackathon · <a href="https://github.com/yahyasarhan22/Sahem">code</a></sub></h3>
 Turns neighbourhood cleanup and volunteering into an ongoing habit: nearby activities, tracked hours, PDF certificates, and an AI chatbot.
 <br/><br/>
 <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Supabase</code> <code>Vercel</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/yahyasarhan22/Aman"><img src="assets/aman.png" alt="Aman" /></a>
 <h3><a href="https://github.com/yahyasarhan22/Aman">Aman · أمان</a> <sub>· civic tech</sub></h3>
@@ -72,8 +81,6 @@ Food-safety transparency for Nablus Municipality: QR hygiene grades, an offline 
 <br/><br/>
 <code>Angular 22</code> <code>NestJS</code> <code>TypeORM</code> <code>MySQL</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/yahyasarhan22/aurora-internship-project-V2"><img src="assets/aurora.svg" alt="Aurora Task Manager" /></a>
 <h3><a href="https://github.com/yahyasarhan22/aurora-internship-project-V2">Aurora Task Manager</a> <sub>· internship</sub></h3>
@@ -81,7 +88,9 @@ Full-stack task management app built in a Scrum team of five over three two-week
 <br/><br/>
 <code>Angular</code> <code>Spring Boot</code> <code>PostgreSQL</code>
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### More I've built
 
